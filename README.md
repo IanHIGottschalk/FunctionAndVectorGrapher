@@ -11,3 +11,5 @@ A Java Swing application that lets you graph mathematical functions and vectors 
 ## How to Run
 1. Compile both `Main.java` and `GraphPanel.java`
 2. Run `Main.java`
+### Main Interface
+![Main UI](screenshots/FunctionAndVectorGrapher.png)
